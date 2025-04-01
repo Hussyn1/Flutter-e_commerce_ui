@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981352244683",
+    "project_id": "chati-app-70fa0",
+    "storage_bucket": "chati-app-70fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981352244683:android:d07f755b97eeffef99024e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCub4ys2Lp2zbJ7r0hCELEZn1EKIG4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
